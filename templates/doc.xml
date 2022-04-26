@@ -1,0 +1,11 @@
+<templateSet group="doc">
+  <template name="doc" value="/*************************************************&#10; *@desc $desc$&#10; *@auther $user$&#10; *@time $date$ $time$&#10; ************************************/" description="add doc comment" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="LiJianfei" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

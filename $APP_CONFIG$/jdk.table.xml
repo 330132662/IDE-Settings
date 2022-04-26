@@ -1,0 +1,539 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_91" />
+      <homePath value="E:/myprogram/Java/jdk1.8.0_91" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/src.zip!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 30 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="D:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file://D:/android/sdk/platforms/android-30/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/android/sdk/sources/android-30" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-30" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 32 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="D:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-32/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-32/android.jar!/" type="simple" />
+            <root url="file://D:/android/sdk/platforms/android-32/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-32" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android Studio default JDK" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.base" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.se" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.base" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.se" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Embedded JDK" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.base" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.se" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/mysoftware/android-studio-2020.3.1.24-windows/android-studio/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.10" />
+      <homePath value="D:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-29/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://D:/android/sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/android/sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="Android Studio default JDK" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.10" />
+      <homePath value="D:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://D:/android/sdk/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/android/sdk/sources/android-28" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="Android Studio default JDK" sdk="android-28" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8 (2)" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_91" />
+      <homePath value="E:/myprogram/Java/jdk1.8.0_91" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/src.zip!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android Studio java home" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_91" />
+      <homePath value="E:/myprogram/Java/jdk1.8.0_91" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/ant-javafx.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/dt.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/javafx-mx.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/packager.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/src.zip!/" type="simple" />
+            <root url="jar://E:/myprogram/Java/jdk1.8.0_91/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 31 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.10" />
+      <homePath value="D:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-31/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/android/sdk/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file://D:/android/sdk/platforms/android-31/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/android/sdk/sources/android-31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="Android Studio default JDK" sdk="android-31" />
+    </jdk>
+  </component>
+</application>

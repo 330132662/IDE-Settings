@@ -1,0 +1,78 @@
+<application>
+  <component name="HMSToolKitPlugin">
+    <option name="chinese" value="true" />
+    <option name="countryRegionCode" value="CN" />
+    <option name="kitsSelectModule" value="{&quot;5077c8d9&quot;:&quot;app&quot;}" />
+    <option name="localAgreementList">
+      <list>
+        <LocalAgreement>
+          <option name="agree" value="true" />
+          <option name="area" value="DR1" />
+          <option name="name" value="latest" />
+          <option name="signAgreementTime" value="1650607387119" />
+          <option name="version" value="20210630" />
+        </LocalAgreement>
+      </list>
+    </option>
+    <option name="usedKitsMap">
+      <map>
+        <entry key="13fd312c">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="2988258">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="34d9dc22">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="4ca26356">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="5077c8d9">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="5c1024ff">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="71cfda9c">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="a83d7181">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="bc0c1a51">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="c2f12bb2">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="c5f5f447">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="userId" value="1ff86de1-d618-43ad-97dd-be7f4b668975" />
+  </component>
+</application>
