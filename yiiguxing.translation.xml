@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="797" />
+    <option name="newTranslationDialogY" value="470" />
     <histories>
       <item value="l" />
     </histories>
@@ -8,6 +11,11 @@
     <option name="lastTrimTime" value="1650963038421" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="AFRIKAANS" />
+      </google-translate>
+    </option>
     <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
   </component>
 </application>
