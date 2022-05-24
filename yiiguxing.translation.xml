@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="291" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="1045" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
@@ -24,6 +24,5 @@
         <option name="primaryLanguage" value="AFRIKAANS" />
       </google-translate>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
   </component>
 </application>
