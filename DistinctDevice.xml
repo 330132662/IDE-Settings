@@ -3,9 +3,9 @@
     <option name="androidVersion" value="10" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="10.0.1" />
-    <option name="model" value="wlz-an00" />
-    <option name="phoneName" value="nova 6 5g" />
+    <option name="emui" value="10.1.1" />
+    <option name="model" value="tel-an00" />
+    <option name="phoneName" value="荣耀x10" />
     <option name="xres" value="1080" />
     <option name="yres" value="2400" />
   </component>
