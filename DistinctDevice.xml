@@ -4,9 +4,9 @@
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
     <option name="emui" value="10.1.0" />
-    <option name="model" value="els-an00" />
-    <option name="phoneName" value="p40 pro" />
-    <option name="xres" value="1200" />
-    <option name="yres" value="2640" />
+    <option name="model" value="oxf-an10" />
+    <option name="phoneName" value="荣耀v30 pro" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2400" />
   </component>
 </application>
