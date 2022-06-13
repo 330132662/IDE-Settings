@@ -3,9 +3,9 @@
     <option name="androidVersion" value="10" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="10.1.0" />
-    <option name="model" value="oxf-an10" />
-    <option name="phoneName" value="荣耀v30 pro" />
+    <option name="emui" value="10.1.1" />
+    <option name="model" value="cdy-an90" />
+    <option name="phoneName" value="荣耀30s" />
     <option name="xres" value="1080" />
     <option name="yres" value="2400" />
   </component>
