@@ -3,10 +3,10 @@
     <option name="androidVersion" value="10" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="11.0.0" />
-    <option name="model" value="brq-an00" />
-    <option name="phoneName" value="nova 8 pro" />
-    <option name="xres" value="1236" />
-    <option name="yres" value="2676" />
+    <option name="emui" value="10.0.1" />
+    <option name="model" value="wlz-an00" />
+    <option name="phoneName" value="nova 6 5g" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2400" />
   </component>
 </application>
