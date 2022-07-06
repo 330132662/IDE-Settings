@@ -3,10 +3,10 @@
     <option name="androidVersion" value="10" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="10.0.1" />
-    <option name="model" value="wlz-an00" />
-    <option name="phoneName" value="nova 6 5g" />
+    <option name="emui" value="10.1.0" />
+    <option name="model" value="tas-an00" />
+    <option name="phoneName" value="mate 30 5g" />
     <option name="xres" value="1080" />
-    <option name="yres" value="2400" />
+    <option name="yres" value="2340" />
   </component>
 </application>
